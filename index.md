@@ -2,6 +2,8 @@
 layout: default
 title: MyTitle
 github.repository_name: mvalla/openwebnet4j
+repository_name: repoNameIndex
+
 ---
 
 **openwebnet4j** is a Java library for the [Open Web Net](https://developer.legrand.com/documentation/open-web-net-for-myhome/) protocol

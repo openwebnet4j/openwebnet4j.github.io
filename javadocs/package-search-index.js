@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.openwebnet4j"},{"l":"org.openwebnet4j.bundle"},{"l":"org.openwebnet4j.communication"},{"l":"org.openwebnet4j.message"}]

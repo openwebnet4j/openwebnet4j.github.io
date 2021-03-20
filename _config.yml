@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: [openwebnet4j]
-description: [openwebnet4j is a Java library for the Open Web Net protocol]
+title: openwebnet4j
+description: A Java library for the Open Web Net protocol
+logo: /img/openwebnet4j_logo.png
 show_downloads: true

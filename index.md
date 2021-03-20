@@ -1,22 +1,24 @@
-# openwebnet4j
+---
+layout: default
+---
 
-**openwebnet4j** is a Java library for the [Open Web Net](https://developer.legrand.com/documentation/open-web-net-for-myhome/) protocol.
+**openwebnet4j** is a Java library for the [Open Web Net](https://developer.legrand.com/documentation/open-web-net-for-myhome/) protocol
 
 It enables a Java client to communicate locally with a gateway supporting the Open Web Net protocol and to control devices in a BTicino/Legrand  BUS/SCS system ([MyHOME_Up](https://www.bticino.com/products-catalogue/myhome_up-simple-home-automation-system/) &reg;) or ZigBee wireless system ([MyHOME_Play](http://www.homesystems-legrandgroup.com/BtHomeSystems/productDetail.action?lang=EN&productId=061) &reg;, now out of production).
 
-Supported features:
+## Supported features
 
 * Device discovery
 * Feedback (monitoring events) from BUS/SCS and ZigBee wireless network 
 
-Supported frames:
+## Supported frames
 
 * `WHO=1` Lighting
 * `WHO=2` Automation
 * `WHO=13` Gateway Management
 * `WHO=18` Energy Management
 
-Supported Open Web Net gateways:
+## Supported Open Web Net gateways
 - *IP gateways* or scenario programmers, such as: BTicino F453 / F454 / F455, MyHOMEServer1,  MyHOME_Screen10, MH201 / MH202 / MH200N 
 - *ZigBee USB Gateways*, such as: [BTicino 3578](https://catalogo.bticino.it/BTI-3578-IT), also known as Legrand 088328, to connect to wireless devices
 

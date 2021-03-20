@@ -3,3 +3,5 @@ title: openwebnet4j
 description: A Java library for the Open Web Net protocol
 logo: /img/openwebnet4j_logo.png
 show_downloads: true
+
+github.repository_name: mvalla/openwebnet4j

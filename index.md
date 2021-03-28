@@ -56,6 +56,7 @@ try {
 
 ## Projects using the library
 Currently this library is used by the *BTicino OpenWebNet binding* of the official [openHAB 3](https://www.openhab.org/) distribution. 
+
 For more information on openHAB and the binding see: [https://www.openhab.org/addons/bindings/openwebnet/](https://www.openhab.org/addons/bindings/openwebnet/)
 
 
@@ -72,7 +73,7 @@ Example donations:
 Make a donation using:
 
 ### PayPal
-[![](/img/pp_donate2.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
+[![](/img/pp_donate2.png | width=40)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -85,7 +86,9 @@ Test:
 <img src="/img/pp_donate2.png" alt="Donate with PayPal"> 
 
 ### Bitcoin
-<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate"> `bitcoin:XXXYYYZZZ?label=openwebnet4j%20Donation`
+<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate">
+
+[bitcoin:XXXYYYZZZ](bitcoin:XXXYYYZZZ?label=openwebnet4j%20Donation)
 
 
 ## Disclaimer

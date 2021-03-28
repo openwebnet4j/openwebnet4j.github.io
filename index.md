@@ -56,32 +56,36 @@ try {
 
 ## Projects using the library
 Currently this library is used by the *BTicino OpenWebNet binding* of the official [openHAB 3](https://www.openhab.org/) distribution. 
-For more information on openHAB and the binding see: https://www.openhab.org/addons/bindings/openwebnet/
+For more information on openHAB and the binding see: [https://www.openhab.org/addons/bindings/openwebnet/](https://www.openhab.org/addons/bindings/openwebnet/)
 
 
 ## Donations
 If you want to say "thanks!" and support this hobby project you can make a donation.
+
 Donations will be used to buy new smart home hardware, or to get some good coffee during the time and evenings spent on the project. 
-Any donation is appreciated! Example donations: 
-1,5$ "A coffee for you", 10$ "Thank you", 25$ "I use it regurarly and appreciate your work", 25-50+$ "Could you prioritize new feature X?" (specify which feature in the donation message).
+
+Any donation is appreciated! 
+
+Example donations: 
+1,5€ "A coffee for you", 10€ "Thank you", 25€ "I use it regurarly and appreciate your work", 25-50+€ "Could you prioritize new feature X?" (specify which feature in the donation message).
 
 Make a donation using:
 
-### PayPal:
-	[![](/img/pp_donate2.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
+### PayPal
+[![](/img/pp_donate2.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
 
-	<form action="https://www.paypal.com/donate" method="post" target="_top">
-		<input type="hidden" name="hosted_button_id" value="EJHGYJ7SLESNY" />
-		<input type="image" src="/img/pp_donate2.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-		<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-	</form>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+	<input type="hidden" name="hosted_button_id" value="EJHGYJ7SLESNY" />
+	<input type="image" src="/img/pp_donate2.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+	<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
+</form>
 	
-	Test:
-	<img src="/img/pp_donate2.png" alt="Donate with PayPal"> 
+Test:
+<img src="/img/pp_donate2.png" alt="Donate with PayPal"> 
 
-### Bitcoin: 
-    <img src="/img/bitcoin-donate-black.png" alt="bitcoin donate"> `bitcoin:XXXYYYZZZ?label=openwebnet4j%20Donation`
+### Bitcoin
+<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate"> `bitcoin:XXXYYYZZZ?label=openwebnet4j%20Donation`
 
 
 ## Disclaimer

@@ -73,9 +73,12 @@ Example donations:
 Make a donation using:
 
 ### PayPal
+[<img src="/img/pp_donate2.png" width="40">](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
+
+Vecchio:
 [![](/img/pp_donate2.png | width=40)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
-
+Form:
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 	<input type="hidden" name="hosted_button_id" value="EJHGYJ7SLESNY" />
 	<input type="image" src="/img/pp_donate2.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
@@ -86,10 +89,7 @@ Test:
 <img src="/img/pp_donate2.png" alt="Donate with PayPal"> 
 
 ### Bitcoin
-<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate">
-
-[bitcoin:XXXYYYZZZ](bitcoin:XXXYYYZZZ?label=openwebnet4j%20Donation)
-
+<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate"> [bitcoin:1BvXXXYYYZZZXXXYYYZZZXXXYYYZZZaaaa](bitcoin:1BvXXXYYYZZZXXXYYYZZZXXXYYYZZZaaaa?label=openwebnet4j%20Donation)
 
 ## Disclaimer
 - This library is not associated by any means with BTicino or Legrand companies

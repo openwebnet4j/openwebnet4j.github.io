@@ -27,9 +27,12 @@ It enables a Java client to communicate locally with a gateway supporting the Op
 ## Dependency Management
 
 ### Maven
+
+This library is available via Maven Central repository by adding the dependency in your POM.xml:
+
 ```xml   
     <dependency>
-      <groupId>com.github.openwebnet4j</groupId>
+      <groupId>io.github.openwebnet4j</groupId>
       <artifactId>openwebnet4j</artifactId>
       <version>0.4.1</version>
     </dependency>
@@ -38,7 +41,7 @@ It enables a Java client to communicate locally with a gateway supporting the Op
 
 ## Usage example
 ```java
-// create BUS gateway with IP=192.168.1.50 and password=12345
+// create BUS gateway connection with IP=192.168.1.50 and password=12345
 BUSGateway myGateway = new BUSGateway("192.168.1.50", 20000, "12345");
 myGateway.subscribe(this);
 try {
@@ -55,28 +58,30 @@ try {
 
 
 ## Projects using the library
-Currently this library is used by the *BTicino OpenWebNet binding* of the official [openHAB 3](https://www.openhab.org/) distribution. 
+This library is used by the **BTicino OpenWebNet binding** of the official [openHAB 3](https://www.openhab.org/) distribution.
 
 For more information on openHAB and the binding see: [https://www.openhab.org/addons/bindings/openwebnet/](https://www.openhab.org/addons/bindings/openwebnet/)
 
 
-## Donations
+## Support this project
 If you want to say "thanks!" and support this hobby project you can make a donation.
 
 Donations will be used to buy new smart home hardware, or to get some good coffee during the time and evenings spent on the project. 
 
 Any donation is appreciated! 
 
-Example donations: 
-1,5€ "A coffee for you", 10€ "Thank you", 25€ "I use it regurarly and appreciate your work", 25-50+€ "Could you prioritize new feature X?" (specify which feature in the donation message).
+Example donations:<br>
+1,5€ "A coffee for you", 10€ "Thank you!", 25€ "I use it regurarly and appreciate your work", 25-50+€ "Could you prioritize new feature X?" (specify which feature in the donate description message).
 
 Make a donation using:
 
 ### PayPal
-[<img src="/img/pp_donate2.png" width="120">](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
+[<img src="/img/pp_donate2.png" width="130">](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
 ### Bitcoin
-[<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate">   bitcoin:1BvXXXYYYZZZXXXYYYZZZXXXYYYZZZaaaa](bitcoin:1BvXXXYYYZZZXXXYYYZZZXXXYYYZZZaaaa?label=openwebnet4j%20Donation)
+[<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate">
+
+bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp](bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp?label=openwebnet4j%20Donation)
 
 
 ## Disclaimer

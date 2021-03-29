@@ -79,9 +79,7 @@ Make a donation using:
 [<img src="/img/pp_donate2.png" width="130">](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
 ### Bitcoin
-[<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate">
-
-bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp](bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp?label=openwebnet4j%20Donation)
+[<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate"> bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp](bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp?label=openwebnet4j%20Donation)
 
 
 ## Disclaimer

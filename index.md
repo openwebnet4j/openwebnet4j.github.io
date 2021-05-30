@@ -13,9 +13,9 @@ It enables a Java client to communicate locally with a gateway supporting the Op
 
 ### Supported frames
 
-
 * `WHO=1` Lighting
 * `WHO=2` Automation
+* `WHO=4` Temperature control system
 * `WHO=13` Gateway Management
 * `WHO=18` Energy Management
 
@@ -34,7 +34,7 @@ This library is available via Maven Central repository by adding the dependency 
     <dependency>
       <groupId>io.github.openwebnet4j</groupId>
       <artifactId>openwebnet4j</artifactId>
-      <version>0.4.1</version>
+      <version>0.5.2</version>
     </dependency>
 ```
 
@@ -58,20 +58,20 @@ try {
 
 
 ## Projects using the library
-This library is used by the **BTicino OpenWebNet binding** of the official [openHAB 3](https://www.openhab.org/) distribution.
+This library is used by the **BTicino OpenWebNet binding** of the official [openHAB 3 distribution](https://www.openhab.org/).
 
-For more information on openHAB and the binding see: [https://www.openhab.org/addons/bindings/openwebnet/](https://www.openhab.org/addons/bindings/openwebnet/)
+For more information on openHAB and the OpenWebNet binding see: [https://www.openhab.org/addons/bindings/openwebnet/](https://www.openhab.org/addons/bindings/openwebnet/)
 
 
 ## Support this project
-If you want to say "thanks!" and support this hobby project you can make a donation.
+If you want to say "thanks!" and support this hobby project you can **make a donation**.
 
 Donations will be used to buy new smart home hardware, or to get some good coffee during the time and evenings spent on the project. 
 
-Any donation is appreciated! 
-
 Example donations:<br>
-1,5€ "A coffee for you", 10€ "Thank you!", 25€ "I use it regurarly and appreciate your work", 25-50+€ "Could you prioritize new feature X?" (specify which feature in the donate description message).
+1,5€ "A coffee for you", 10€ "Thank you!", 25€ "I use it regurarly and appreciate your work", 25+€ "Could you prioritize new feature XYZ?" (specify which feature in the donation message).
+
+Any donation is appreciated! 
 
 Make a donation using:
 

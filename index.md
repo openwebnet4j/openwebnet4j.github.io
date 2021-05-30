@@ -69,7 +69,7 @@ If you want to say "thanks!" and support this hobby project you can **make a don
 Donations will be used to buy new smart home hardware, or to get some good coffee during the time and evenings spent on the project. 
 
 Example donations:<br>
-1,5€ "A coffee for you", 10€ "Thank you!", 25€ "I use it regurarly and appreciate your work", 25+€ "Could you prioritize new feature XYZ?" (specify which feature in the donation message).
+1,5€ "A coffee for you", 10€ "Thank you!", 25€ "I use it regularly and appreciate your work", 25+€ "Could you prioritize new feature XYZ?" (specify which feature in the donation message).
 
 Any donation is appreciated! 
 

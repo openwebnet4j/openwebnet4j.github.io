@@ -18,6 +18,7 @@ It enables a Java client to communicate locally with a gateway supporting the Op
 * `WHO=4` Temperature control system
 * `WHO=13` Gateway Management
 * `WHO=18` Energy Management
+* `WHO=15/25` CEN/CEN+ and DryContacts & IR
 
 ### Supported Open Web Net gateways
 - *IP gateways* or scenario programmers, such as: BTicino F453 / F454 / F455, MyHOMEServer1,  MyHOME_Screen10, MH201 / MH202 / MH200N 
@@ -34,7 +35,7 @@ This library is available via Maven Central repository by adding the dependency 
     <dependency>
       <groupId>io.github.openwebnet4j</groupId>
       <artifactId>openwebnet4j</artifactId>
-      <version>0.5.2</version>
+      <version>0.6.0</version>
     </dependency>
 ```
 
@@ -66,7 +67,7 @@ For more information on openHAB and the OpenWebNet binding see: [https://www.ope
 ## Support this project
 If you want to say "thanks!" and support this hobby project you can **make a donation**.
 
-Donations will be used to buy new smart home hardware, or to get some good coffee during the time and evenings spent on the project. 
+Donations will be used to buy new smart home hardware, or to get some good coffee/beer during the time and evenings spent on the project. 
 
 Example donations:<br>
 1,5€ "A coffee for you", 10€ "Thank you!", 25€ "I use it regularly and appreciate your work", 25+€ "Could you prioritize new feature XYZ?" (specify which feature in the donation message).
@@ -78,8 +79,11 @@ Make a donation using:
 ### PayPal
 [<img src="/img/pp_donate2.png" width="130">](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
+### BuyMeACoffee
+TODO
+
 ### Bitcoin
-[<img src="/img/bitcoin-donate-black.png" alt="bitcoin donate" width="110"> bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp](bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp?label=openwebnet4j%20Donation)
+[<img src="img/bitcoin-donate-black.png" alt="bitcoin donate" width="110"> bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp](bitcoin:bc1qlnd8f6ffpega3w9phqn4hly34p52l6qpd9decp?label=openwebnet4j%20Donation)
 
 
 ## Disclaimer

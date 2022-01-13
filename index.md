@@ -80,10 +80,7 @@ Make a donation using:
 [<img src="/img/pp_donate2.png" width="130">](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=EJHGYJ7SLESNY)
 
 ### BuyMeACoffee
-<a href="https://www.buymeacoffee.com/mvcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="217">](https://www.buymeacoffee.com/mvcode)
-
+(use just your credit card, no account or other info needed)
 [<img src="img/bmc.png">](https://www.buymeacoffee.com/mvcode)
 
 ### Bitcoin
